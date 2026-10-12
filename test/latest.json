@@ -1,8 +1,8 @@
 {
-  "version": "0.0.8",
-  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/test-v0.0.8/Mank-Gtms-Setup-0.0.8.exe",
-  "sha256": "f33e76363be13faedcfb6e43e9e7617b64d7fb7e816b38e1aa915b8d957f1be4",
-  "size": 95801356,
+  "version": "0.0.9",
+  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/test-v0.0.9/Mank-Gtms-Setup-0.0.9.exe",
+  "sha256": "647dce999766a6a2b5743349dca1294c146acf3e45284960816d1e61d5543d52",
+  "size": 95801223,
   "releaseDate": "2026-10-12",
-  "notes": "Test build 0.0.8 for the Phase 8 gate"
+  "notes": "Test build 0.0.9 for the Phase 8 gate"
 }
