@@ -1,8 +1,8 @@
 {
-    "version":  "0.0.11",
-    "url":  "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/test-v0.0.11/Mank-Gtms-Setup-0.0.11.exe",
-    "sha256":  "0000000000000000000000000000000000000000000000000000000000000000",
-    "size":  117854056,
-    "releaseDate":  "2026-10-21",
-    "notes":  ""
+  "version": "0.0.11",
+  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/test-v0.0.11/Mank-Gtms-Setup-0.0.11.exe",
+  "sha256": "8cdfdd365af698980ca4e0ce86cdbde7ac7d2ef97899b8cb79ac2beac5b12551",
+  "size": 117854056,
+  "releaseDate": "2026-10-21",
+  "notes": ""
 }
