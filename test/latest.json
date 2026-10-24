@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/v1.0.0/Mank-Gtms-Setup-1.0.0.exe",
-  "sha256": "11ec3e768c4a1c073603e0b9cc11a42585c7875ac62d0aacb47c253d9773eb7d",
-  "size": 118370560,
-  "releaseDate": "2026-10-24",
-  "notes": "NFC card scan on search boxes; table scroll with sticky pagination; app icon; code signing"
+  "version": "0.0.11",
+  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/test-v0.0.11/Mank-Gtms-Setup-0.0.11.exe",
+  "sha256": "8cdfdd365af698980ca4e0ce86cdbde7ac7d2ef97899b8cb79ac2beac5b12551",
+  "size": 117854056,
+  "releaseDate": "2026-10-21",
+  "notes": ""
 }
