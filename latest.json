@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/v1.0.0/Mank-Gtms-Setup-1.0.0.exe",
-  "sha256": "11ec3e768c4a1c073603e0b9cc11a42585c7875ac62d0aacb47c253d9773eb7d",
-  "size": 118370560,
-  "releaseDate": "2026-10-24",
-  "notes": "NFC card scan on search boxes; table scroll with sticky pagination; app icon; code signing"
+  "version": "1.1.0",
+  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/v1.1.0/Mank-Gtms-Setup-1.1.0.exe",
+  "sha256": "fde959c4d01bd5bbe451c8a044f9c4613159f78ea0abfd8d3f4a79ab9335c902",
+  "size": 118371224,
+  "releaseDate": "2026-10-30",
+  "notes": "No login: the app opens straight to the Dashboard; Admin PIN asked before delete, suspend, reactivate and import; Forgot PIN? in every Admin PIN prompt; NFC card is optional: register a customer without a card; Edit Customer can assign or change the NFC card"
 }
