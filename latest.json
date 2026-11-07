@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/v1.2.0/Mank-Gtms-Setup-1.2.0.exe",
-  "sha256": "410cc8699ad7a9104d7bc215dbafe09d803ef884b8c49cedef1e4882b3d418a3",
-  "size": 118378040,
-  "releaseDate": "2026-11-07",
-  "notes": "One card for up to four children, each with their own name\nAdd Customer and Edit Customer take the other children's names\nStart Play asks who is playing, and time is charged for each child playing\nActive Sessions, Play History and session recovery show who played and how many\nSearch finds a customer by any child's name\nWhatsApp welcome and expiry messages name every child on the card\nNames, mobile numbers and card IDs can be selected and copied\nForgot PIN? on Settings PIN and Settings WhatsApp\nWording fixes: messages speak of one Admin PIN"
+  "version": "1.1.0",
+  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/v1.1.0/Mank-Gtms-Setup-1.1.0.exe",
+  "sha256": "fde959c4d01bd5bbe451c8a044f9c4613159f78ea0abfd8d3f4a79ab9335c902",
+  "size": 118371224,
+  "releaseDate": "2026-10-30",
+  "notes": "No login: the app opens straight to the Dashboard; Admin PIN asked before delete, suspend, reactivate and import; Forgot PIN? in every Admin PIN prompt; NFC card is optional: register a customer without a card; Edit Customer can assign or change the NFC card"
 }
