@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/v1.2.0/Mank-Gtms-Setup-1.2.0.exe",
-  "sha256": "410cc8699ad7a9104d7bc215dbafe09d803ef884b8c49cedef1e4882b3d418a3",
-  "size": 118378040,
-  "releaseDate": "2026-11-07",
-  "notes": "One card for up to four children, each with their own name\nAdd Customer and Edit Customer take the other children's names\nStart Play asks who is playing, and time is charged for each child playing\nActive Sessions, Play History and session recovery show who played and how many\nSearch finds a customer by any child's name\nWhatsApp welcome and expiry messages name every child on the card\nNames, mobile numbers and card IDs can be selected and copied\nForgot PIN? on Settings PIN and Settings WhatsApp\nWording fixes: messages speak of one Admin PIN"
+  "version": "1.3.0",
+  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/v1.3.0/Mank-Gtms-Setup-1.3.0.exe",
+  "sha256": "657d1482b11ab9628a412def0aae51129592ab50e8740cc07979a86ecd002aa1",
+  "size": 118382400,
+  "releaseDate": "2026-11-16",
+  "notes": "Start Play asks how long they are playing: 30 Mins, 1 Hr, 2 Hrs, 3 Hrs or No limit\nEnd Session opens by itself when the booked time is reached\n10 Hr plan is valid for one year, and 12 M now reads 1 Y\nUp to 10 children on one card\nExports and backups show remaining time in Hours and Min columns\nExports and backups include a customer list for each package\nDaily backups now carry every transaction\nCustomer Profile shows the plan name, with the expiry beside it\nClearer message when the backup before an update cannot use its settings"
 }
