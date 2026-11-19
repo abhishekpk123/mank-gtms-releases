@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/v1.3.0/Mank-Gtms-Setup-1.3.0.exe",
-  "sha256": "657d1482b11ab9628a412def0aae51129592ab50e8740cc07979a86ecd002aa1",
-  "size": 118382400,
-  "releaseDate": "2026-11-16",
-  "notes": "Start Play asks how long they are playing: 30 Mins, 1 Hr, 2 Hrs, 3 Hrs or No limit\nEnd Session opens by itself when the booked time is reached\n10 Hr plan is valid for one year, and 12 M now reads 1 Y\nUp to 10 children on one card\nExports and backups show remaining time in Hours and Min columns\nExports and backups include a customer list for each package\nDaily backups now carry every transaction\nCustomer Profile shows the plan name, with the expiry beside it\nClearer message when the backup before an update cannot use its settings"
+  "version": "1.4.0",
+  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/v1.4.0/Mank-Gtms-Setup-1.4.0.exe",
+  "sha256": "408113672c4649a1755704e0c6395e5d6c3f814e7f4ab6e666949a02564016ad",
+  "size": 118383744,
+  "releaseDate": "2026-11-19",
+  "notes": "Add Customer can mark a customer as Needs review: the card stays frozen until the details are checked in Edit\nA customer added for review records no sale\nCustomers who need review sort together on All Customers"
 }
