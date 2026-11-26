@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/v1.4.0/Mank-Gtms-Setup-1.4.0.exe",
-  "sha256": "408113672c4649a1755704e0c6395e5d6c3f814e7f4ab6e666949a02564016ad",
-  "size": 118383744,
-  "releaseDate": "2026-11-19",
-  "notes": "Add Customer can mark a customer as Needs review: the card stays frozen until the details are checked in Edit\nA customer added for review records no sale\nCustomers who need review sort together on All Customers"
+  "version": "1.5.0",
+  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/v1.5.0/Mank-Gtms-Setup-1.5.0.exe",
+  "sha256": "bacf2562a50474252119c62c4d7abd62fb6a7c7c39315ae8803bb8b057015dfc",
+  "size": 118386880,
+  "releaseDate": "2026-11-27",
+  "notes": "An Update available window opens when a new version is found at launch, and the update runs in it\nUpdates install only when no children are playing\nExports and backups name the card column Card No\nStart Play offers Custom: type the hours and minutes, up to what the card covers\nSession cards with booked time show the time left\nSession cards are all the same height"
 }
