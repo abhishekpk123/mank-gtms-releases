@@ -1,8 +1,8 @@
 {
-  "version": "0.0.11",
-  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/test-v0.0.11/Mank-Gtms-Setup-0.0.11.exe",
-  "sha256": "8cdfdd365af698980ca4e0ce86cdbde7ac7d2ef97899b8cb79ac2beac5b12551",
-  "size": 117854056,
-  "releaseDate": "2026-10-21",
-  "notes": ""
+  "version": "0.0.13",
+  "url": "https://github.com/abhishekpk123/mank-gtms-releases/releases/download/test-v0.0.13/Mank-Gtms-Setup-0.0.13.exe",
+  "sha256": "7ddc3dd82321f92fc4f85db21cf3505f12dd807a556489506aaa274aa5842bf5",
+  "size": 118413624,
+  "releaseDate": "2026-11-27",
+  "notes": "Card No in data files\nCustom booked time\nTime left on booked cards\nOne card height"
 }
